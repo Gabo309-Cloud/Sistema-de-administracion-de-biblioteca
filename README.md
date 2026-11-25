@@ -1,5 +1,5 @@
 
-# Prototipo de sistema de Gestión de Biblioteca en Pyton
+# Prototipo de sistema de administración de Biblioteca en Pyton
 
 ## Descripción
 Este proyecto consiste en un sistema muy básico de gestión de biblioteca desarrollado en Python. Permite registrar y consultar libros, además de controlar sus préstamos y devoluciones.
